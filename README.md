@@ -25,6 +25,7 @@ A portfolio website is a great way to:
 | Dino Kupinic | [dino-kupinic.dev](https://www.dino-kupinic.dev/) | Nuxt, Vue, TypeScript, Tailwind CSS, Vercel |
 | Baqir Naqvi | [baqirnaqvi.dev](https://www.baqirnaqvi.dev/) | Next.js, React, Tailwind CSS, TypeScript, Vercel |
 | Korey Wang Tianru | [korey2028.tech](https://korey2028.tech/) | HTML, CSS, Cloudflare |
+| Oleg Vishnevsky | [lovelyfriendly.com](https://lovelyfriendly.com/) | HTML, CSS, JavaScript, Cloudflare |
 <!-- portfolios:end -->
 
 ## Contribution 📖
